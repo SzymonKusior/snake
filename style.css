@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: #00ff2a; */
+}
+.container {
+  background-color: #00a732;
+  border-radius: 0.2rem;
+  box-shadow: 0px 0px 10px #000;
+}
